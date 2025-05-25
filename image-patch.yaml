@@ -7,7 +7,7 @@ spec:
     spec:
       containers:
         - name: nginx
-          image: nginx:1.26.125
+          image: nginx:1.28.0
           resources:
             limits:
               memory: "96Mi"
